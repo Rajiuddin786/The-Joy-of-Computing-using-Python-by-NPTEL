@@ -1,3 +1,4 @@
+#To Calculate the discount
 c=input("Enter the cost= ")
 c_int=int(c)
 d=input("Enter the discount= ")
