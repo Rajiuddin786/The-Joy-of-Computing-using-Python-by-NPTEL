@@ -14,7 +14,7 @@ def fizzbuzz(n:int):
         print(n,"is None")
 
 def main():
-    for i in range(num):
+    for i in range(1,num):
         fizzbuzz(i)
 
 if __name__ == "__main__":
