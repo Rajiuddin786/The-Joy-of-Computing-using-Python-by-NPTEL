@@ -51,6 +51,8 @@ def play():
             c2=input("Press 1 to continue and 0 to Quit: ")
             turn = 0
         if((c1 == '0' or c2 == '0') and turn == 0): break
+    print(f"{p1} score is {p1_score}")
+    print(f"{p2} score is {p2_score}")
     print("Thanks for Playing")
 
 if __name__ == "__main__":
