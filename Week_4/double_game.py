@@ -35,3 +35,9 @@ while(i<5):
 
 print(card1)
 print(card2)
+
+ch=input("Can you spot the Similar Symbol: ")
+if ch == samesymbol:
+    print("Correct :)")
+else:
+    print("Wrong :(")
