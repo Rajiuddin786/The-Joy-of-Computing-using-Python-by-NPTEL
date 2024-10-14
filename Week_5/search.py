@@ -16,7 +16,6 @@ def binary_search(arr,num):
     l,r = 0,len(arr)-1
     while l<r:
         mid = l+(r-l)//2
-        print(mid)
         if arr[mid] == num:
             print(num,"Found")
             flag = 1
