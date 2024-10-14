@@ -1,6 +1,6 @@
 import speech_recognition as sr
 
-Audio_File = ("Example.wav")
+Audio_File = ("Example.wav") #Enter the file path
 
 r=sr.Recognizer() #Initialization
 
