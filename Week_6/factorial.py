@@ -1,5 +1,5 @@
 def fac(n):
-    if n==0:
+    if n<=0:
         return f'Wrong Input'
     if n == 1:
         return 1
