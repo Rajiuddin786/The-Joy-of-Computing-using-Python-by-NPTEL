@@ -46,7 +46,7 @@ import random
 
 # print(area_pun)
 
-
+"""Method 2"""
 img=Image.open('map-01.png')
 rgb_img=img.convert("RGB")
 
